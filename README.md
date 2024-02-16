@@ -1,7 +1,7 @@
 ### Olá 👋
 <div align="center">
   <a href="https://github.com/RoniAndradeS">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniandrades&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniandradee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h1> Sobre Mim </h1>
