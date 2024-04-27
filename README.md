@@ -1,19 +1,15 @@
-### Olá 👋
-<div align="center">
-  <a href="https://github.com/RoniAndradee">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniandradee&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 💫 Sobre Mim:
+🙋‍♂️Olá sou o Ronielli!<br>📚 Técnico em Desenvolvimento de Sistemas.<br>📚 Estudante de ADS na SPTech School.
 
-<h1> Sobre Mim </h1>
-<br>
-<ul>
-  <li>🙋‍♂️ Eu me chamo Ronielli e tenho 18 anos.</li>
-  <li>🎧 Gosto de escutar música de diversos estilos</li>
-  <li>📚 Atualmente estou estudando as seguintes linguagens:</li>
-  <li><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></li>
-  <li><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></li>
-  <li><img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></li>
-  <li><img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white></li>
-</ul>
-<br>
+
+# 💻 Tecnologias que utilizo:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=roniandradee&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roniandradee&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roniandradee&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roniandradee&icon=0&color=2)](https://visitcount.itsvg.in)
+
 <hr>
