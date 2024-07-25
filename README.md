@@ -3,11 +3,21 @@
 
 
 # 💻 Tecnologias que tive contato:
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg) [![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Lua-Dark.svg) [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg) https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=lua" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+</div>
 
 # 📊 GitHub Status:
-
+<div align="center">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=roniandradee&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roniandradee&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 <hr>
