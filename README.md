@@ -12,6 +12,11 @@
   <img src="https://skillicons.dev/icons?i=lua" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+
 </div>
 
 # 📊 GitHub Status:
