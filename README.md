@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=sass" height="50"/>
   <img src="https://skillicons.dev/icons?i=js" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
@@ -16,7 +17,8 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
   <img src="https://skillicons.dev/icons?i=angular" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
 </div>
 
 # 📊 GitHub Status:
