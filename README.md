@@ -6,10 +6,6 @@
 
 # 💻 Tecnologias que tive contato:
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=sass" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" height="50"/>
@@ -23,6 +19,10 @@
 <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=sass" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" height="50"/>
 <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 <img src="https://skillicons.dev/icons?i=azure" height="50"/>
