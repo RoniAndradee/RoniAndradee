@@ -21,7 +21,7 @@
 </div>
 
 # 📊 GitHub Status:
-<div class="description" style="display: inline_block">
+<div class="description" style="display: inline_block"; align="center">
   <a href="[https://github.com/JoaoManierii](https://github.com/RoniAndradee)">
      <img src="https://github-readme-stats.vercel.app/api?username=RoniAndradee&show_icons=true&theme=dark" alt="stats" height="180px">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniAndradee&layout=compact&theme=dark" alt="top language" height="180px">
